@@ -1,0 +1,3 @@
+/home/key/Downloads/Mem/build/CMakeFiles/rebuild_cache.dir
+/home/key/Downloads/Mem/build/CMakeFiles/MemoryBufferProject.dir
+/home/key/Downloads/Mem/build/CMakeFiles/edit_cache.dir
