@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/MemoryBufferProject.dir/src/main.cpp.o CMakeFiles/MemoryBufferProject.dir/src/MemoryBuffer.cpp.o -o MemoryBufferProject 
